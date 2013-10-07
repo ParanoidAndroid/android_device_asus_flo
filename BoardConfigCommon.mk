@@ -98,5 +98,5 @@ TARGET_CUSTOM_DISPLAY_TUNING := true
 
 HAVE_ADRENO_SOURCE:= false
 
-TARGET_KERNEL_SOURCE := kernel/asus/flo
+TARGET_KERNEL_SOURCE := kernel/google/msm
 TARGET_KERNEL_CONFIG := flo_defconfig
